@@ -184,7 +184,7 @@ This approach is robust to hand orientation and works from any viewing angle, in
 
 ## License
 
-[Add your license here]
+Open Project
 
 ## Contributing
 
@@ -192,7 +192,7 @@ This approach is robust to hand orientation and works from any viewing angle, in
 
 ## Author
 
-[Your name/organization]
+Rodzel Te
 
 ## Acknowledgments
 
